@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Finki\\UberWebApplication\\UberWebApp\\UberWebApp\\UberWebApp.csproj": {}
+    "F:\\UberWebApplication\\UberWebApp\\UberWebApp\\UberWebApp.csproj": {}
   },
   "projects": {
-    "D:\\Finki\\UberWebApplication\\UberWebApp\\UberWebApp\\UberWebApp.csproj": {
+    "F:\\UberWebApplication\\UberWebApp\\UberWebApp\\UberWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Finki\\UberWebApplication\\UberWebApp\\UberWebApp\\UberWebApp.csproj",
+        "projectUniqueName": "F:\\UberWebApplication\\UberWebApp\\UberWebApp\\UberWebApp.csproj",
         "projectName": "UberWebApp",
-        "projectPath": "D:\\Finki\\UberWebApplication\\UberWebApp\\UberWebApp\\UberWebApp.csproj",
+        "projectPath": "F:\\UberWebApplication\\UberWebApp\\UberWebApp\\UberWebApp.csproj",
         "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
-        "outputPath": "D:\\Finki\\UberWebApplication\\UberWebApp\\UberWebApp\\obj\\",
+        "outputPath": "F:\\UberWebApplication\\UberWebApp\\UberWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
         }
       }
     }
