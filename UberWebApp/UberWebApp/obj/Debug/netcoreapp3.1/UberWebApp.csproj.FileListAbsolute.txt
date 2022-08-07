@@ -1,0 +1,184 @@
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.StaticWebAssets.xml
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.exe
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.deps.json
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.runtimeconfig.json
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.runtimeconfig.dev.json
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.pdb
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.Views.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.Views.pdb
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.csproj.AssemblyReference.cache
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.AssemblyInfoInputs.cache
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.AssemblyInfo.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.csproj.CoreCompileInputs.cache
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.RazorAssemblyInfo.cache
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.RazorAssemblyInfo.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\staticwebassets\UberWebApp.StaticWebAssets.Manifest.cache
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\staticwebassets\UberWebApp.StaticWebAssets.xml
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.TagHelpers.input.cache
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.TagHelpers.output.cache
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.RazorCoreGenerate.cache
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.RazorTargetAssemblyInfo.cache
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.RazorTargetAssemblyInfo.cs
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.Views.pdb
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.csproj.CopyComplete
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.dll
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.pdb
+D:\Finki\IS Proekt\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.genruntimeconfig.cache
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.StaticWebAssets.xml
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.exe
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.deps.json
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.runtimeconfig.json
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.runtimeconfig.dev.json
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.pdb
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.Views.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\UberWebApp.Views.pdb
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.csproj.AssemblyReference.cache
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.AssemblyInfoInputs.cache
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.AssemblyInfo.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.csproj.CoreCompileInputs.cache
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.RazorAssemblyInfo.cache
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.RazorAssemblyInfo.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\staticwebassets\UberWebApp.StaticWebAssets.Manifest.cache
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\staticwebassets\UberWebApp.StaticWebAssets.xml
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.TagHelpers.input.cache
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.TagHelpers.output.cache
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.RazorCoreGenerate.cache
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.RazorTargetAssemblyInfo.cache
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.RazorTargetAssemblyInfo.cs
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.Views.pdb
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.csproj.CopyComplete
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.dll
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.pdb
+D:\Finki\UberWebApplication\UberWebApp\UberWebApp\obj\Debug\netcoreapp3.1\UberWebApp.genruntimeconfig.cache
