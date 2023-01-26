@@ -1,0 +1,13 @@
+D:\Finki\Uber\Uber\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+D:\Finki\Uber\Uber\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Finki\Uber\Uber\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+D:\Finki\Uber\Uber\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+D:\Finki\Uber\Uber\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+D:\Finki\Uber\Uber\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+D:\Finki\Uber\Uber\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+D:\Finki\Uber\Uber\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\Finki\Uber\Uber\Repository\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Finki\Uber\Uber\Repository\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Finki\Uber\Uber\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+D:\Finki\Uber\Uber\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+D:\Finki\Uber\Uber\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

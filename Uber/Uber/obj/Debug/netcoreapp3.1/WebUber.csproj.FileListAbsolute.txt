@@ -1,0 +1,9 @@
+D:\Finki\Uber\Uber\Uber\obj\Debug\netcoreapp3.1\WebUber.csproj.AssemblyReference.cache
+D:\Finki\Uber\Uber\Uber\obj\Debug\netcoreapp3.1\WebUber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Finki\Uber\Uber\Uber\obj\Debug\netcoreapp3.1\WebUber.AssemblyInfoInputs.cache
+D:\Finki\Uber\Uber\Uber\obj\Debug\netcoreapp3.1\WebUber.AssemblyInfo.cs
+D:\Finki\Uber\Uber\Uber\obj\Debug\netcoreapp3.1\WebUber.csproj.CoreCompileInputs.cache
+D:\Finki\Uber\Uber\Uber\obj\Debug\netcoreapp3.1\WebUber.MvcApplicationPartsAssemblyInfo.cs
+D:\Finki\Uber\Uber\Uber\obj\Debug\netcoreapp3.1\WebUber.MvcApplicationPartsAssemblyInfo.cache
+D:\Finki\Uber\Uber\Uber\obj\Debug\netcoreapp3.1\WebUber.RazorAssemblyInfo.cache
+D:\Finki\Uber\Uber\Uber\obj\Debug\netcoreapp3.1\WebUber.RazorAssemblyInfo.cs
